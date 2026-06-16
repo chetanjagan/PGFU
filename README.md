@@ -207,7 +207,7 @@ This runs PGFU and all baselines on all three datasets with seeds 42, 123, 456.
 ```bibtex
 @inproceedings{pgfu2026,
   title     = {PGFU: Prototype-Guided Feature Unlearning for Deep Neural Networks},
-  author    = {Anonymous},
+  author    = {Chetan J},
   booktitle = {AAAI 2026},
   year      = {2026}
 }
